@@ -1,0 +1,94 @@
+#marketingBodyWrapper {
+    width: 1000px;
+    height: 1500px;
+}
+
+#modxman {
+    width: 500px;
+    height: 200px;
+    margin: auto;
+}
+
+#topImage1 {
+    float: left;
+    width: 350px;
+    height: 350px;
+    padding: 10px;
+    margin-top: -29px;
+    margin-left: 18px;
+}
+
+#topImage2 {
+    float: left;
+    width: 350px;
+    height: 350px;
+    padding: 10px;
+    margin-left: 18px;
+}
+
+#bigImageDescription1 {
+    float: right;
+    width: 450px;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    padding: 43px 0;
+    text-align: left;
+    margin-left: 22px;
+}
+
+#bigImageDescription2 {
+    float: right;
+    width: 450px;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    padding: 114px 0;
+    text-align: left;
+    margin-left: 22px;
+}
+
+#textBanner1 {
+    margin: auto;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 24px;
+    padding: 20px;
+    width: 500px;
+    background:#0E1742
+
+}
+
+#textBanner2 {
+    margin: auto;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 24px;
+    padding: 20px;
+    background: #0E1742;
+    color: #FFFFFF;
+}
+
+#bottomDescription {
+    float: right;
+    width: 777px;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 26px;
+    margin-bottom: 7px;
+    margin-top: 10px;
+}
+
+#smallImage {
+    float: left;
+    margin-top: 10px;
+}
+
+#consultationBtn {
+    float: right;
+    background: #0E1742;
+    color: #FFFFFF;
+    padding: 10px;
+    border: 2px solid #0E1742;
+    border-radius: 5px;
+}
+
+#consultationBtn:hover {
+    background: #D3D3D3;
+    cursor: pointer;
+}
